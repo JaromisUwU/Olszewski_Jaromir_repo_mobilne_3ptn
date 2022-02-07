@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zapis do pliku</string>
+    <string name="zapisz">zapisz</string>
+    <string name="save">wczytaj</string>
+    <string name="blablacosam">dodaj wartość do wysłania</string>
+</resources>
